@@ -1,0 +1,7 @@
+.text_color {
+	color: red;
+}
+span[style*="font-weight: 400;"] {
+    text-decoration: line-through;
+	text-decoration-color: red;
+}
